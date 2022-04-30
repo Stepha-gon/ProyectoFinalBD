@@ -1,6 +1,6 @@
 <h1 align="center">Proyecto Final Base de datos</h1>
 <h2 align="center"> Inventario Laboratorio Químico</h2>
-# Presentado por por: 
+ Presentado por por: 
     Gina Stephanie Gonzalez M
     
 # Tabla de Contenidos
@@ -31,6 +31,6 @@ La primer  herramienta utilizada, será el lenguaje de programación Python. Est
 
 ### Visual Studio Code
 Se va a utilizar el editor de texto Visual Studio Code, esto debido a que es un editor de texto fácil de usar, el cual es multiplataforma, desarrollado por Microsoft por lo que es gratuito y de código abierto siendo esta una herramienta de programación avanzada.
-![visualcode.jpg](https://medium.com/habasconchocos/instalaci%C3%B3n-de-java-y-visual-studio-code-en-plataformas-windows-1fa47a69497f)
+![visualcode.jpg](https://miro.medium.com/max/1400/1*GsaZtQIA0cx2ZpikfBdjCA.png)
 
 
