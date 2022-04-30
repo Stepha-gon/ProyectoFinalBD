@@ -44,4 +44,11 @@ para crear prototipos, bocetos o wireframes es Balsamiq Mockups
 ![balsamiq.jpg](https://llops.com/blog/content/articulos/oct08/set_componentes.jpg)
 
 
+<h2> Managment Studio y SQL server  </h2> 
+SQL Server Management Studio es un entorno de desarrollo integrado para administrar cualquier infraestructura SQL y se utiliza para tareas relacionadas con la gestión de bases de datos y de la comunicación con el Servidor. Microsoft SQL Server es un sistema de administración de bases de datos que permite el procesamiento de transacciones y las aplicaciones de análisis.  
+
+![sqlserver.jpg](https://blog.rmaafs.com/wp-content/uploads/2021/05/smss-logo.png)
+
+
+
 
