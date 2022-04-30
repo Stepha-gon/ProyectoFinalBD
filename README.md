@@ -1,6 +1,6 @@
 <h1 align="center">Proyecto Final Base de datos</h1>
 <h2 align="center"> Inventario Laboratorio Químico</h2>
-##### Presentado por por: 
+#### Presentado por por: 
     Gina Stephanie Gonzalez M
     
 # Tabla de Contenidos
