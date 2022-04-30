@@ -25,3 +25,4 @@ Cada laboratorio debe tener un sistema de base de datos donde se realiza la gest
 # Herramientas usadas para la solución
 La primer  herramienta utilizada, en la cual se va a realizar toda la interfaz gráfica del proyecto será en visual studio code usando el lenguaje de programación Python. 
 
+https://talently.tech/blog/wp-content/uploads/2020/11/cuanto-gana-un-programador-de-python-en-peru.jpg
