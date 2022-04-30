@@ -31,6 +31,12 @@ La primer  herramienta utilizada, será el lenguaje de programación Python. Est
 
 ### Visual Studio Code
 Se va a utilizar el editor de texto Visual Studio Code, esto debido a que es un editor de texto fácil de usar, el cual es multiplataforma, desarrollado por Microsoft por lo que es gratuito y de código abierto siendo esta una herramienta de programación avanzada.
-![visualcode.jpg](https://miro.medium.com/max/1400/1*GsaZtQIA0cx2ZpikfBdjCA.png)
+![visualcode.jpg](https://programacion.net/files/article/20170630010634_visual-studio-code.png)
+
+###Balsamiq
+La herramienta balsamiq nos permitirá crear el prototipo y modelado del proyecto, debido a que esta herramienta es una de las mejores 
+para crear prototipos, bocetos o wireframes es Balsamiq Mockups
+![balsamiq.jpg](https://llops.com/blog/content/articulos/oct08/set_componentes.jpg)
+
 
 
