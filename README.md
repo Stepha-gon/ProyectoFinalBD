@@ -1,5 +1,5 @@
 <h1 align="center">Proyecto Final Base de datos</h1>
-<h2 align="center"> Inventario Laboratorio Químico</h2>
+<h2 align="center"> Programa para el inventario de Laboratorios Químicos</h2>
  Presentado por por: 
     Gina Stephanie Gonzalez M
     
@@ -23,6 +23,8 @@
 # Introducción
 Los laboratorios tienen una labor muy importante en el gestionamiento de todos los materiales, reactivos y equipos.mPor un lado, los equipos de laboratorio son extremadamente delicados y requieren de cuidados específicos. En cuanto a los materiales de los laboratorios el problema radica en su gran cantidad y en la fragilidad de algunos materiales. Por último, se encuentran los reactivos, punto que es fundamental y por lo cual se debe tener una gestión eficiente y adecuada, debido a que se deben controlar y supervisar todos los reactivos que sean peligrosos y que puedan apelar contra la salud y la integridad de cualquier persona que haga uso del laboratorio. 
 Cada laboratorio debe tener un sistema de base de datos donde se realiza la gestión del inventario, siendo una de las partes fundamentales y más complejas, debido a que cada vez que se usa un reactivo, se realiza mantenimiento a un equipo, se producen salidas o entradas de las sustancias o equipos, se debe actualizar el inventario con el fin de llevar un control total del laboratorio, volviéndose un proceso repetitivo y complejo.   
+
+Es por esto que se decidió desarrollar un programa  para el control de inventarios que permita gestionar entradas y salidas de los diferentes equipos y reactivos para poder gestionar los inventarios de una forma más eficiente. 
 
 # Herramientas usadas para la solución
 <h2>Python</h2>
