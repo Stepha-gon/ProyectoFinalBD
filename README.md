@@ -1,5 +1,5 @@
 <h1 align="center">Proyecto Final Base de datos</h1>
-<h2 align="center"> LabIN</h2>
+<h2 align="center"> LABIN</h2>
 <h3 align="center"> Programa para el inventario de Laboratorios Químicos</h3>
  Presentado por por: 
     Gina Stephanie Gonzalez M
