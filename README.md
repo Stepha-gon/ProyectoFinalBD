@@ -60,6 +60,16 @@ El incorrecto manejo del inventario perjudica las prácticas de los laboratorios
 
 # Interfaz gráfica
 
-El proyecto va a constar de diferentes secciones. En primer lugar va a constar de preguntarle al usuario si quiere ingresar al sistema como invitado para únicamente ver el inventario o si quiere iniciar sesión para poder modificar, eliminar e insertar los materiales en el inventario del laboratorio. 
+El proyecto va a constar de diferentes secciones. En primer lugar va a constar de dos diferentes ingresos al inventario; El usuario puede ingresar al sistema como invitado para únicamente revisar el inventario y buscar los productos o puede iniciar sesión para poder modificar, eliminar e insertar los materiales en el inventario del laboratorio. 
 
 ![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
+
+En caso de que el usuario ingrese como invitado logrará navegar por el inventario y podrá buscar los productos para ver la información de cada uno, sin embargo, no tendrá permiso de insertar, eliminar o modificar ningún producto del laboratorio
+
+![invitado.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/invitado.png)
+
+Por otro lado, si el usuario inicia sesión va a tener el permiso de insertar, modificar y eliminar productos del inventario. Las sigueintes imagenes mostrarán los datos de cada uno de los productos del inventario como lo son Equipos, Reactivos y Materiales. 
+
+![crud.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crud.png)
+![crudreac](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crudreac.png)
+![crudmat](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crudmat.png)
