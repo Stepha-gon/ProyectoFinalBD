@@ -92,4 +92,15 @@ El proyecto se compondrá de una red LAN la cual tendrá 3 computadores para los
 
 ![LAN.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/LAN.png)
 
+# Metodología Ágil
 
+El proyecto se realizará en base a una metodología ágil debido a que gracias a estas metodologías se logra adaptar a la forma de trabajo y a las condiciones del proyecto,utilizando enfoques flexibles para ofrecer mejoras y aumentar la satisfacción del cliente. Es por esto, que se decidió utilizar la metodología SCRUM.
+La metodología SCRUM se utilizó debido a sus ventajas, las cuales son: innovación, flexibilidad, competitividad y productividad.
+La metodología SCRUM se compone de diferentes etapas. 
+- La primera es la iniciación la cual es la evaluación del proceso donde se define la visión del proyecto y el plan de lanzamiento.
+- La segunda etapa es la de planificación y estimación donde se elaboran las primeras tareas y se aceptan sugerencias y optimizaciones del proceso
+- La tercer etapa es la implementación donde se crean los primeros entregables diseñando la aplicación junto con las optimizaciones del cliente
+- la cuarta etapa es la revisión e implementación debido a que se construye y se implementa el programa realizando las respectivas validaciones
+- la quinta y última etapa es el lanzamiento donde se envían los entregables y se hace la respectiva evaluación y monitoreo. 
+
+![SCRUM.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/SCRUM.png)
