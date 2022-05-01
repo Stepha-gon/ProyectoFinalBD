@@ -73,3 +73,8 @@ Por otro lado, si el usuario inicia sesión va a tener el permiso de insertar, m
 ![crud.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crud.png)
 ![crudreac](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crudreac.png)
 ![crudmat](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crudmat.png)
+
+Además, en una diferente sección se va a poder observar cual es la próxima fecha de revisión y mantenimiento en cuanto a los equipos, y cual es la fecha de vencimiento en cuanto a los reactivos como se muestra a continuación 
+
+![revreactivos](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/revreac.png)
+![revequipos](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/revreactivos.png)
