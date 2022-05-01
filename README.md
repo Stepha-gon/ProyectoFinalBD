@@ -78,3 +78,11 @@ Además, en una diferente sección se va a poder observar cual es la próxima fe
 
 ![revreactivos](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/revreac.png)
 ![revequipos](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/revreactivos.png)
+
+# MER
+
+El modelo entidad-relación del proyecto se muestra a continuación:
+![Mer.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/MER.png)
+
+
+
