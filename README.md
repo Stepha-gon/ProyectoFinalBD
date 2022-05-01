@@ -57,5 +57,8 @@ SQL Server Management Studio es un entorno de desarrollo integrado para administ
 # Necesidad
 El incorrecto manejo del inventario perjudica las prácticas de los laboratorios debido a que afecta los procesos de formación y procesos de investigación al encontrar incoherencias en los inventarios . Esto genera que se compren mayores cantidades de reactivos innecesarios, o que se venzan los reactivos por lo que ya no se pueden usar en procesos de investigación. Por otro lado, se debe tener control de las salidas y las entradas de los productos para saber cuando se debe adquirir más de un producto o cuando hay suficiente cantidad para las prácticas. 
 
+# Interfaz gráfica
+
+El proyecto va a constar de diferentes secciones. En primer lugar va a constar de preguntarle al usuario si quiere ingresar al sistema como invitado para únicamente ver el inventario o si quiere iniciar sesión para poder modificar, eliminar e insertar los materiales en el inventario del laboratorio. 
 
 
