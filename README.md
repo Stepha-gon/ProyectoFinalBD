@@ -61,4 +61,4 @@ El incorrecto manejo del inventario perjudica las prácticas de los laboratorios
 
 El proyecto va a constar de diferentes secciones. En primer lugar va a constar de preguntarle al usuario si quiere ingresar al sistema como invitado para únicamente ver el inventario o si quiere iniciar sesión para poder modificar, eliminar e insertar los materiales en el inventario del laboratorio. 
 
-
+![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
