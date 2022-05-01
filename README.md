@@ -84,5 +84,12 @@ Además, en una diferente sección se va a poder observar cual es la próxima fe
 El modelo entidad-relación del proyecto se muestra a continuación:
 ![Mer.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/MER.png)
 
+# Arquitectura de Software
+
+La arquitectura que se decidió implementar en el proyecto es la arquitectura cliente-servidor, esto debido a que los usuarios van a estar conectados al servidor de base de datos en donde se almacenará toda la información de los productos del laboratorio, por esto los recursos siempre estarán a disposición de los usuarios que van a hacer uso de esta información . Todas las gestiones que se realizarán van a estar concentradas en el servidor, además, el servidor tambien dispondrá de los requerimientos provenientes de los usuarios que tienen prioridad ,o, de la información que es de uso público. 
+
+El proyecto se compondrá de una red LAN la cual tendrá 3 computadores para los usuarios una impresora y un servidor de base de datos donde se almacenará la información, los cuales estarán interconectados por medio de un switch. A continuación se muestra la arquitectura de software del proyecto realizada en Cisco Packet Tracer. 
+
+![LAN.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/LAN.png)
 
 
