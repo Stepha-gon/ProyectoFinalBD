@@ -52,7 +52,7 @@ para crear prototipos, bocetos o wireframes es Balsamiq Mockups
 <h2> MySQL y MySQL Workbench  </h2> 
 MySQL es un sistema open source de administración de bases de datos que es desarrollado y soportado por Oracle, por lo cual además se utilizó el programa MySQL Workbench debido a que es una herramienta visual de diseño de bases de datos que integra desarrollo de software, administración de bases de datos, diseño de bases de datos, creación y mantenimiento para el sistema de base de datos MySQL.
 
-![Mysql.jpg](https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2F3aa59acc-3472-4875-b9c6-216825be755b.png&w=1920&q=75)
+![Mysql.jpg](https://solocodigoweb.com/wp-content/uploads/2014/03/cronologia-historia-de-mysql-cloud-computing-solocodigoweb.jpg)
 
 
 # Necesidad
