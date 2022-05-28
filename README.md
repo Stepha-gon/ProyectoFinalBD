@@ -19,6 +19,8 @@
 
 [7. Metología usada](#metodologia-usada)
 
+[8.Desarrollo Proyecto](#Desarrollo-Proyecto)
+
 
 
 # Introducción
@@ -104,3 +106,8 @@ La metodología SCRUM se compone de diferentes etapas.
 - La quinta y última etapa es el lanzamiento donde se envían los entregables y se hace la respectiva evaluación y monitoreo del proyecto
 
 ![SCRUM.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/SCRUM.png)
+
+# Desarrollo Proyecto
+
+A continuación se expondeá el alcance del proyecto realizado. 
+Inicialmente se creo la base de datos que se usó para el proyecto la cual se nombró comó Lab_inventario donde por medio de esta se crearon las diferentes tablas para el desarrollo del proyecto, con un total de 4 tablas; Una tabla que contendrá los datos de los usuarios autorizados a modificar la base de datos. La segunda tabla contendrá los datos de los equipos registrados, la tercera tabla los datos de los reactivos registrados y finalmente, la cuarta tabla contendrá los materiales registrados. 
