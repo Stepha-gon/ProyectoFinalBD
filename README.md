@@ -127,9 +127,9 @@ Si el usuario ingresa como invitado va poder realizar las busquedas necesarias y
 ### Pestaña Equipos vista invitado
 ![buscareqinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscareqinv.png)
 ### Pestaña Reactivos vista invitado
-![buscarrecinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscarinv.png)
+![buscarrecinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscarrecinv.png)
 ### Pestaña Materiales vista invitado
-![buscarmatinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscarinv.png)
+![buscarmatinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscarmatinv.png)
 
 En dado caso que ya se dese iniciar sesión, en cada una de las pestañas mencionadas anteriormente hay un botón de inicio de sesión, y una vez presionado, redirige al usuario a hacer login, en caso que el usuario acceda con credenciales en las bases de datos el programa le mostrará una alerta de ingreso satisfactorio, y en caso de que el usuario ingrese credenciales que no se encuentren en la base de datos se negará el acceso. 
 
