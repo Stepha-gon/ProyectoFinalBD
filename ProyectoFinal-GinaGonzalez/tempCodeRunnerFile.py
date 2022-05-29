@@ -1,1 +1,0 @@
-self.grid1.heading("col7", text="Número CAS", anchor=CENTER)  
