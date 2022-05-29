@@ -164,8 +164,8 @@ Finalmente tanto para vista invitado como para la vista de Admin la última pest
 
 ### Conclusiones 
 
-Debido a la necesidad de un sistema de control eficiente para la gestión de la información en los laboratorios químicos, se realizó un programa el cual disminuya la deficiencia a la hora de buscar, insertar, modificar datos de los diferentes laboratorios. Gracias al programa desarrollado se concretaron las siguientes conclusiones:
-•	Se evidencio la necesidad de un nuevo sistema de control de inventarios, debido a las deficiencias que se presentaban al momento de la ejecución de los mismos. 
-•	El desarrollo de un nuevo sistema de control de inventarios, mejora la eficiencia y velocidad al momento de realizar el inventario, además de brindar la información verídica en cuanto a la existencia y cantidad de los componentes del laboratorio. 
+Debido a la necesidad de un sistema de control eficiente para la gestión de la información en los laboratorios químicos, se realizó un programa el cual disminuya la deficiencia a la hora de buscar, insertar, modificar datos de los diferentes laboratorios. Gracias al programa desarrollado se concretaron las siguientes conclusiones:<br>
+•	Se evidencio la necesidad de un nuevo sistema de control de inventarios, debido a las deficiencias que se presentaban al momento de la ejecución de los mismos. <br>
+•	El desarrollo de un nuevo sistema de control de inventarios, mejora la eficiencia y velocidad al momento de realizar el inventario, además de brindar la información verídica en cuanto a la existencia y cantidad de los componentes del laboratorio. <br>
 •	El programa para le gestión del sistema de inventario, disminuirá el tiempo en su ejecución, ofrecerá información total y verídica, y además administrará correctamente los componentes del laboratorio
 
